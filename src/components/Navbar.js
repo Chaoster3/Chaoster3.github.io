@@ -9,6 +9,9 @@ const Navbar = () => {
             <div className="text-2xl p-0.5 hover-underline-animation">
                 <NavLink to='/about'><p className="">About</p></NavLink>
             </div>
+            <div className="text-2xl p-0.5 hover-underline-animation">
+                <NavLink to='/projects'><p className="">Projects</p></NavLink>
+            </div>
         </nav>
     )
 }
