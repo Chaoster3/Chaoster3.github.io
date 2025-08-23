@@ -22,6 +22,27 @@ const Projects = () => {
             tech: ["Javascript", "Java", "SQL", "React", "Node.js", "Express.js", "MySQL", "AWS", "Kafka", "Spark","Socket.io"],
             description: "A social media platform that allows users to post photos, follow other users, like/comment on posts, and live chat with other users.",
             codeLink: "https://github.com/Chaoster3/pennstagram",
+        },
+        {
+            id: 4,
+            title: "Personal Website",
+            tech: ["Javascript", "React"],
+            description: "This personal website.",
+            codeLink: "https://github.com/Chaoster3/Chaoster3.github.io",
+        },
+        {
+            id: 4,
+            title: "Personal Website",
+            tech: ["Javascript", "React"],
+            description: "This personal website.",
+            codeLink: "https://github.com/Chaoster3/Chaoster3.github.io",
+        },
+        {
+            id: 4,
+            title: "Personal Website",
+            tech: ["Javascript", "React"],
+            description: "This personal website.",
+            codeLink: "https://github.com/Chaoster3/Chaoster3.github.io",
         }
     ];
 

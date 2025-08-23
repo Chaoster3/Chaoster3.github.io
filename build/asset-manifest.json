@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.683d0db6.css",
-    "main.js": "/static/js/main.550fbeda.js",
+    "main.css": "/static/css/main.bdd46179.css",
+    "main.js": "/static/js/main.6fb4483e.js",
     "static/media/FiraSans-Regular.ttf": "/static/media/FiraSans-Regular.f4eb295ecc2fb842d61c.ttf",
     "static/media/Cousine-Regular.ttf": "/static/media/Cousine-Regular.6cd8f52526e026733ecd.ttf",
     "static/media/Nunito-VariableFont_wght.ttf": "/static/media/Nunito-VariableFont_wght.c0f0807a40aebdc41b40.ttf",
@@ -19,11 +19,11 @@
     "static/media/ModernSans-Light.otf": "/static/media/ModernSans-Light.bebb6d2d7adb7481905a.otf",
     "static/media/Abandoned.ttf": "/static/media/Abandoned.b15b719005be292dc450.ttf",
     "index.html": "/index.html",
-    "main.683d0db6.css.map": "/static/css/main.683d0db6.css.map",
-    "main.550fbeda.js.map": "/static/js/main.550fbeda.js.map"
+    "main.bdd46179.css.map": "/static/css/main.bdd46179.css.map",
+    "main.6fb4483e.js.map": "/static/js/main.6fb4483e.js.map"
   },
   "entrypoints": [
-    "static/css/main.683d0db6.css",
-    "static/js/main.550fbeda.js"
+    "static/css/main.bdd46179.css",
+    "static/js/main.6fb4483e.js"
   ]
 }
