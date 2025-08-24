@@ -32,13 +32,20 @@ const Projects = () => {
         },
         {
             id: 5,
+            title: "Bitcoin Price Movement Prediction",
+            tech: ["Python", "pandas", "scikit-learn", "PyTorch", "Plotly"],
+            description: "A project applying machine learning techniques to predict the price movement of Bitcoin using historical price data and Reddit sentiment analysis.",
+            codeLink: "https://github.com/Chaoster3/bitcoin-price-movement-prediction",
+        },
+        {
+            id: 6,
             title: "Dwellify",
             tech: ["JavaScript", "React", "Express.js", "Node.js", "Tailwind CSS", "AWS", "PostgreSQL"],
             description: "A web app for viewing and filtering house listings on various criteria.",
             codeLink: "https://github.com/Chaoster3/Chaoster3.github.io",
         },
         {
-            id: 6,
+            id: 7,
             title: "Map Generator",
             tech: ["Python", "NumPy"],
             description: "A randomized map generator for building mult-agent pathfinding environments with graph representations.",

@@ -10,7 +10,7 @@ import AppParticles from "./components/Particles";
 
 const App = () => {
   return (
-    <div className="App flex flex-col h-screen bg-center bg-radial bg-squares back">
+    <div className="App flex flex-col min-h-screen bg-center bg-radial bg-squares back">
     <AppParticles/>
       <HashRouter>
         <Navbar/>
