@@ -19,30 +19,30 @@ const Projects = () => {
         {
             id: 3,
             title: "Pennstagram",
-            tech: ["Javascript", "Java", "SQL", "React", "Node.js", "Express.js", "MySQL", "AWS", "Kafka", "Spark","Socket.io"],
+            tech: ["JavaScript", "Java", "SQL", "React", "Tailwind CSS", "Node.js", "Express.js", "MySQL", "AWS", "Kafka", "Spark", "Socket.io"],
             description: "A social media platform that allows users to post photos, follow other users, like/comment on posts, and live chat with other users.",
             codeLink: "https://github.com/Chaoster3/pennstagram",
         },
         {
             id: 4,
             title: "Personal Website",
-            tech: ["Javascript", "React"],
+            tech: ["JavaScript", "React", "Tailwind CSS"],
             description: "This personal website.",
             codeLink: "https://github.com/Chaoster3/Chaoster3.github.io",
         },
         {
-            id: 4,
-            title: "Personal Website",
-            tech: ["Javascript", "React"],
-            description: "This personal website.",
+            id: 5,
+            title: "Dwellify",
+            tech: ["JavaScript", "React", "Express.js", "Node.js", "Tailwind CSS", "AWS", "PostgreSQL"],
+            description: "A web app for viewing and filtering house listings on various criteria.",
             codeLink: "https://github.com/Chaoster3/Chaoster3.github.io",
         },
         {
-            id: 4,
-            title: "Personal Website",
-            tech: ["Javascript", "React"],
-            description: "This personal website.",
-            codeLink: "https://github.com/Chaoster3/Chaoster3.github.io",
+            id: 6,
+            title: "Map Generator",
+            tech: ["Python", "NumPy"],
+            description: "A randomized map generator for building mult-agent pathfinding environments with graph representations.",
+            codeLink: "https://github.com/Chaoster3/map-generator",
         }
     ];
 
